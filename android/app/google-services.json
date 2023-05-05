@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1033680794503",
+    "project_id": "yuvo-d1df8",
+    "storage_bucket": "yuvo-d1df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033680794503:android:f4117fb812cbd0d388d922",
+        "android_client_info": {
+          "package_name": "com.yuvo.yuvoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033680794503-26h22covn5l15qrk7841r2q0afk3isnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yuvo.yuvoapp",
+            "certificate_hash": "ff46438db86159480b8ed1bd8bbc8b0379763151"
+          }
+        },
+        {
+          "client_id": "1033680794503-q85leqspd7481eh8g1sced7actscb4po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnY1Dkjkn1OrDw0cSeXjAih5o7LXoAsf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033680794503-q85leqspd7481eh8g1sced7actscb4po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
